@@ -24,14 +24,14 @@ This repository showcases evidence and reflections aligned with my personal and 
 
 ## Skills and Interests
 
-- **Evidence:** [See file](skills-interests/evidence.png)
+- **Evidence:** [See file](skills-interests/evidence2.png)
 - **Reflection (STAR):** [Read reflection](skills-interests/reflection.md)
 
 ---
 
 ## Personality Assessment
 
-- **Evidence:** [See file](personality-assessment/evidence.png)
+- **Evidence:** [See file](personality-assessment/evidence3.png)
 - **Reflection (STAR):** [Read reflection](personality-assessment/reflection.md)
 
 ---
