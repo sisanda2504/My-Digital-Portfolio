@@ -44,4 +44,4 @@ This repository showcases evidence and reflections aligned with my personal and 
 - **CV Submission Reflection (STAR):** [Read reflection](cv-submission/reflection.md)
 ---
 ## Additional
--Additional Artifact:** [Watch Video](Mock-Interview/myvideo)
+-Additional Artifact: [Watch Video](Mock-Interview/myvideo.mp4)
