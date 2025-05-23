@@ -1,13 +1,13 @@
 ## Skills and Interests Reflection (STAR)
 
 **Situation:**  
-Describe the situation.
+During the Skills and Interests assessment, I was presented with scenarios and questions to help me identify my core values, transferable skills, and interests.
 
 **Task:**  
-What was your responsibility?
+My task was to honestly evaluate my strengths and areas for growth, and to reflect on how my values and interests influence my career choices.
 
 **Action:**  
-What did you do?
+I completed the online assessment, answered scenario-based questions, and reviewed the feedback provided. I also reflected on my past experiences in group projects and coursework to identify patterns in my interests and skills.
 
 **Result:**  
-What was the result?
+I learned that my strongest skills are teamwork, communication, and analytical thinking. My interests are closely aligned with problem-solving and technology. This reflection has helped me set clearer goals for my personal and professional development.
