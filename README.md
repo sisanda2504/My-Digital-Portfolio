@@ -40,5 +40,5 @@ This repository showcases evidence and reflections aligned with my personal and 
 
 - **CV Evidence:** [See file](cv/my-cv.pdf)
 - **CV Reflection (STAR):** [Read reflection](cv/reflection.md)
-- **CV Submission Evidence:** [See file](cv/evidence4.png)
-- **CV Submission Reflection (STAR):** [Read reflection](cv/reflection.md)
+- **CV Submission Evidence:** [See file](cv-submission/evidence4.png)
+- **CV Submission Reflection (STAR):** [Read reflection](cv-submission/reflection.md)
